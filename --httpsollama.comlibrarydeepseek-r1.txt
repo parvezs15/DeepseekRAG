@@ -1,0 +1,3 @@
+--https://www.youtube.com/watch?v=M6vZ6b75p9k
+--https://ollama.com/library/deepseek-r1:14b
+ollama pull deepseek-r1:14b
